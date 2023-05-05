@@ -1,0 +1,134 @@
+{
+    "products": [
+      {
+        "name": "iPhone 12",
+        "brand": "Apple",
+        "price": 799,
+        "image": "https://example.com/iphone12.jpg",
+        "description": "The iPhone 12 is the latest phone from Apple, featuring 5G connectivity, A14 Bionic chip, and a Super Retina XDR display.",
+        "colors": ["Black", "White", "Blue", "Green", "Product Red"],
+        "storage": [64, 128, 256],
+        "ratings": {
+          "average": 4.8,
+          "count": 500
+        }
+      },
+      {
+        "name": "Samsung Galaxy S21",
+        "brand": "Samsung",
+        "price": 699,
+        "image": "https://example.com/galaxys21.jpg",
+        "description": "The Samsung Galaxy S21 features a 6.2-inch Dynamic AMOLED display, 5G connectivity, and a powerful Exynos 2100 processor.",
+        "colors": ["Phantom Gray", "Phantom White", "Phantom Violet"],
+        "storage": [128, 256],
+        "ratings": {
+          "average": 4.6,
+          "count": 300
+        }
+      },
+      {
+        "name": "OnePlus 9 Pro",
+        "brand": "OnePlus",
+        "price": 969,
+        "image": "https://example.com/oneplus9pro.jpg",
+        "description": "The OnePlus 9 Pro is a flagship phone with a 6.7-inch Fluid AMOLED display, 5G connectivity, and a Qualcomm Snapdragon 888 processor.",
+        "colors": ["Morning Mist", "Pine Green"],
+        "storage": [128, 256],
+        "ratings": {
+          "average": 4.7,
+          "count": 400
+        }
+      },{
+        "name": "Google Pixel 5",
+        "brand": "Google",
+        "price": 699,
+        "image": "https://example.com/pixel5.jpg",
+        "description": "The Google Pixel 5 features a 6.0-inch OLED display, 5G connectivity, and a 12.2MP camera with Night Sight mode.",
+        "colors": ["Just Black", "Sorta Sage"],
+        "storage": [128],
+        "ratings": {
+          "average": 4.5,
+          "count": 250
+        }
+      },
+      {
+        "name": "Xiaomi Mi 11",
+        "brand": "Xiaomi",
+        "price": 749,
+        "image": "https://example.com/mi11.jpg",
+        "description": "The Xiaomi Mi 11 is a flagship phone with a 6.81-inch AMOLED display, 5G connectivity, and a Snapdragon 888 processor.",
+        "colors": ["Midnight Gray", "Horizon Blue"],
+        "storage": [128, 256],
+        "ratings": {
+          "average": 4.5,
+          "count": 150
+        }
+      }, {
+        "name": "Samsung Galaxy A52s 5G",
+        "brand": "Samsung",
+        "price": 449,
+        "image": "https://example.com/galaxya52s.jpg",
+        "description": "The Samsung Galaxy A52s 5G features a 6.5-inch Super AMOLED display, 5G connectivity, and a Snapdragon 778G processor.",
+        "colors": ["Awesome Black", "Awesome White", "Awesome Violet"],
+        "storage": [128, 256],
+        "ratings": {
+            "average": 4.5,
+            "count": 200
+        }
+    },
+    {
+        "name": "Motorola Moto G Power (2022)",
+        "brand": "Motorola",
+        "price": 199,
+        "image": "https://example.com/motogpower.jpg",
+        "description": "The Motorola Moto G Power (2022) features a 6.6-inch IPS LCD display, 5G connectivity, and a Snapdragon 690 processor.",
+        "colors": ["Black", "Green"],
+        "storage": [64],
+        "ratings": {
+            "average": 4.2,
+            "count": 150
+        }
+    },
+    {
+        "name": "Realme GT Neo 2",
+        "brand": "Realme",
+        "price": 399,
+        "image": "https://example.com/realmegtneo2.jpg",
+        "description": "The Realme GT Neo 2 is a mid-range phone with a 6.43-inch Super AMOLED display, 5G connectivity, and a Snapdragon 870 processor.",
+        "colors": ["Black", "Blue"],
+        "storage": [128, 256],
+        "ratings": {
+            "average": 4.7,
+            "count": 100
+        }
+    },
+    {
+        "name": "Oppo Reno6 Pro+",
+        "brand": "Oppo",
+        "price": 699,
+        "image": "https://example.com/opporeno6pro.jpg",
+        "description": "The Oppo Reno6 Pro+ is a premium phone with a 6.55-inch AMOLED display, 5G connectivity, and a Snapdragon 870 processor.",
+        "colors": ["Astral Blue", "Starry Black"],
+        "storage": [128, 256],
+        "ratings": {
+            "average": 4.6,
+            "count": 50
+        }
+    },
+    {
+        "name": "Asus Zenfone 8 Flip",
+        "brand": "Asus",
+        "price": 799,
+        "image": "https://example.com/zenfone8flip.jpg",
+        "description": "The Asus Zenfone 8 Flip is a high-end phone with a 6.67-inch AMOLED display, 5G connectivity, and a Snapdragon 888 processor.",
+        "colors": ["Galactic Black", "Glacier Silver"],
+        "storage": [256],
+        "ratings": {
+            "average": 4.9,
+            "count": 80
+        }
+    }
+
+    ]
+  }
+  

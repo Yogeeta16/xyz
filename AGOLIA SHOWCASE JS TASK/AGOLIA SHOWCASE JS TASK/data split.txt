@@ -1,0 +1,19 @@
+  for (let i = 0; i < element.length; i++) {
+        if ((description + words[i]).length > 70) { // check if adding the next word would exceed the desired length
+          description += '...'; // add ellipsis to indicate that the description was truncated
+          break;
+        }
+        description += words[i] + ' '; // add word and space to the description
+      }
+
+
+<span>${element.description.split(' ').slice(0, 10).join(' ')}</span><br><br>
+
+
+
+Here, the split(' ') method splits the description into an array of words using space as the delimiter. The slice(0, 10) method selects the first 10 elements of the array, and the join(' ') method joins the selected elements back into a string with spaces between the words. You can change the number 10 to a different value to control the number of words in the description.
+
+
+
+
+
